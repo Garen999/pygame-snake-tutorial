@@ -1,6 +1,6 @@
-# Snake
+# Pygame Snake Game
 
-This game was made by using a tutorial by ClearCode
+This is a classic Snake game built in Python using the Pygame library.
 <br>
 <br>
-Tutorial: https://youtu.be/QFvqStqPCRU?si=OfboohhRcPGCsv6A
+Note: This project was built by following the tutorial by ClearCode to learn game loop logic, collision detection and rendering in Python.
